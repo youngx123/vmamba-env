@@ -18,7 +18,7 @@ export LD_LIBRARY_PATH=/usr/local/cuda-11.2/targets/x86_64-linux/lib:$LD_LIBRARY
 export PATH=/usr/local/cuda-11.2/bin:$PATH
 ```
 然后进行编译
-**` cd kernels/selective_scan && pip install .` **
+**` cd kernels/selective_scan && pip install .`** 
 
 > 参考
 > 
