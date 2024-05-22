@@ -20,7 +20,8 @@ export PATH=/usr/local/cuda-11.2/bin:$PATH
 然后进行编译
 **` cd kernels/selective_scan && pip install .`** 
 
-> 参考
+
+> ## 参考
 > 
 > https://blog.csdn.net/weixin_42111770/article/details/131560320
 >
